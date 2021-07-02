@@ -1,5 +1,0 @@
-﻿
-
-PRUEBA DOCUMENTO README
-
-
