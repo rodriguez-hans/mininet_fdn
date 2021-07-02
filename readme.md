@@ -26,3 +26,5 @@ Hemos propuesto un diseño de red simple, donde tenemos un servidor centralizado
 
 
 ![imagen](https://user-images.githubusercontent.com/60863984/124218307-98142d80-dabf-11eb-9edb-107003edba23.png)
+
+Este fichero puedes encontrarlo en este mismo repositorio bajo la extensión .mn
